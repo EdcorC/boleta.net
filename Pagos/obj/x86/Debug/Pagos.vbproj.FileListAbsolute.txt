@@ -1,0 +1,18 @@
+C:\Users\EDCOR\AppData\Local\Temporary Projects\Pagos\obj\x86\Debug\Pagos.boleta.resources
+C:\Users\EDCOR\AppData\Local\Temporary Projects\Pagos\obj\x86\Debug\Pagos.Resources.resources
+C:\Users\EDCOR\AppData\Local\Temporary Projects\Pagos\obj\x86\Debug\Pagos.vbproj.GenerateResource.Cache
+C:\Users\EDCOR\AppData\Local\Temporary Projects\Pagos\bin\Debug\Pagos.exe
+C:\Users\EDCOR\AppData\Local\Temporary Projects\Pagos\bin\Debug\Pagos.pdb
+C:\Users\EDCOR\AppData\Local\Temporary Projects\Pagos\bin\Debug\Pagos.xml
+C:\Users\EDCOR\AppData\Local\Temporary Projects\Pagos\obj\x86\Debug\Pagos.exe
+C:\Users\EDCOR\AppData\Local\Temporary Projects\Pagos\obj\x86\Debug\Pagos.xml
+C:\Users\EDCOR\AppData\Local\Temporary Projects\Pagos\obj\x86\Debug\Pagos.pdb
+C:\Users\EDCOR\documents\visual studio 2010\Projects\Pagos\Pagos\obj\x86\Debug\Pagos.exe
+C:\Users\EDCOR\documents\visual studio 2010\Projects\Pagos\Pagos\obj\x86\Debug\Pagos.xml
+C:\Users\EDCOR\documents\visual studio 2010\Projects\Pagos\Pagos\obj\x86\Debug\Pagos.pdb
+C:\Users\EDCOR\documents\visual studio 2010\Projects\Pagos\Pagos\bin\Debug\Pagos.exe
+C:\Users\EDCOR\documents\visual studio 2010\Projects\Pagos\Pagos\bin\Debug\Pagos.pdb
+C:\Users\EDCOR\documents\visual studio 2010\Projects\Pagos\Pagos\bin\Debug\Pagos.xml
+C:\Users\EDCOR\documents\visual studio 2010\Projects\Pagos\Pagos\obj\x86\Debug\Pagos.boleta.resources
+C:\Users\EDCOR\documents\visual studio 2010\Projects\Pagos\Pagos\obj\x86\Debug\Pagos.Resources.resources
+C:\Users\EDCOR\documents\visual studio 2010\Projects\Pagos\Pagos\obj\x86\Debug\Pagos.vbproj.GenerateResource.Cache
